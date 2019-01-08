@@ -25,3 +25,6 @@ for i in range(0, 1000):
 
 for linha in arquivo:
     print(linha)
+
+# Fechando o arquivo
+arquivo.close()
