@@ -3,6 +3,7 @@ Aula 8 - Argumentos de linha de comando
 
 - Passagem de argumentos
 - Exemplo: python sqlmap.py --help
+- Útil para programas CLI
 
 """
 
